@@ -22,3 +22,4 @@ git clone <your-repo>
 cd rag-chatbot
 pip install -r requirements.txt
 streamlit run app.py
+set OPENAI_KEY variable in .env
